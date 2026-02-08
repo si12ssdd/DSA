@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/si12ssdd/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sorting
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/si12ssdd/DSA/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
