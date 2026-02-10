@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/si12ssdd/DSA/tree/master/0053-maximum-subarray) |
 | [1816-truncate-sentence](https://github.com/si12ssdd/DSA/tree/master/1816-truncate-sentence) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/si12ssdd/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sorting
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/si12ssdd/DSA/tree/master/0459-repeated-substring-pattern) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/si12ssdd/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/si12ssdd/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
