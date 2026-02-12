@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/si12ssdd/DSA/tree/master/0020-valid-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/si12ssdd/DSA/tree/master/0459-repeated-substring-pattern) |
 | [1768-merge-strings-alternately](https://github.com/si12ssdd/DSA/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/si12ssdd/DSA/tree/master/1816-truncate-sentence) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/si12ssdd/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
