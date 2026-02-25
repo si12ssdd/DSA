@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/si12ssdd/DSA/tree/master/0061-rotate-list) |
 | [1768-merge-strings-alternately](https://github.com/si12ssdd/DSA/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/si12ssdd/DSA/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/si12ssdd/DSA/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
