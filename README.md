@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/si12ssdd/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2367-number-of-arithmetic-triplets](https://github.com/si12ssdd/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/si12ssdd/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/si12ssdd/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/si12ssdd/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/si12ssdd/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/si12ssdd/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/si12ssdd/DSA/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/si12ssdd/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/si12ssdd/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/si12ssdd/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/si12ssdd/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/si12ssdd/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/si12ssdd/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/si12ssdd/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/si12ssdd/DSA/tree/master/0287-find-the-duplicate-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/si12ssdd/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
