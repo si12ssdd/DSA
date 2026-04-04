@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/si12ssdd/DSA/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/si12ssdd/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/si12ssdd/DSA/tree/master/1816-truncate-sentence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/si12ssdd/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/si12ssdd/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String Matching
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/si12ssdd/DSA/tree/master/0049-group-anagrams) |
 | [1512-number-of-good-pairs](https://github.com/si12ssdd/DSA/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2367-number-of-arithmetic-triplets](https://github.com/si12ssdd/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2465-number-of-distinct-averages](https://github.com/si12ssdd/DSA/tree/master/2465-number-of-distinct-averages) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/si12ssdd/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/si12ssdd/DSA/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -188,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/si12ssdd/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/si12ssdd/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
