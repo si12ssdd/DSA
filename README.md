@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/si12ssdd/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/si12ssdd/DSA/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/si12ssdd/DSA/tree/master/0029-divide-two-integers) |
 | [1512-number-of-good-pairs](https://github.com/si12ssdd/DSA/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/si12ssdd/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/si12ssdd/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/si12ssdd/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/si12ssdd/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/si12ssdd/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Brainteaser
