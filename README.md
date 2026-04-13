@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/si12ssdd/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/si12ssdd/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/si12ssdd/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/si12ssdd/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/si12ssdd/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/si12ssdd/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/si12ssdd/DSA/tree/master/3467-transform-array-by-parity) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/si12ssdd/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/si12ssdd/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/si12ssdd/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/si12ssdd/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/si12ssdd/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/si12ssdd/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/si12ssdd/DSA/tree/master/0287-find-the-duplicate-number) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/si12ssdd/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -234,8 +237,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/si12ssdd/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/si12ssdd/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/si12ssdd/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/si12ssdd/DSA/tree/master/0048-rotate-image) |
+## Queue
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/si12ssdd/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
