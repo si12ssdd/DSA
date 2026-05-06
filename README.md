@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/si12ssdd/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/si12ssdd/DSA/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/si12ssdd/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/si12ssdd/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1544-make-the-string-great](https://github.com/si12ssdd/DSA/tree/master/1544-make-the-string-great) |
 ## Linked List
@@ -203,10 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/si12ssdd/DSA/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/si12ssdd/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/si12ssdd/DSA/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/si12ssdd/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/si12ssdd/DSA/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/si12ssdd/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Counting
 |  |
 | ------- |
