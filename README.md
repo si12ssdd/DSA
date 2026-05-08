@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/si12ssdd/DSA/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/si12ssdd/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/si12ssdd/DSA/tree/master/0049-group-anagrams) |
+| [0171-excel-sheet-column-number](https://github.com/si12ssdd/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0459-repeated-substring-pattern](https://github.com/si12ssdd/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/si12ssdd/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/si12ssdd/DSA/tree/master/0771-jewels-and-stones) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/si12ssdd/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/si12ssdd/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/si12ssdd/DSA/tree/master/0048-rotate-image) |
+| [0171-excel-sheet-column-number](https://github.com/si12ssdd/DSA/tree/master/0171-excel-sheet-column-number) |
 | [1512-number-of-good-pairs](https://github.com/si12ssdd/DSA/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/si12ssdd/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/si12ssdd/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
