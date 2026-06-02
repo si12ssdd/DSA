@@ -280,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/si12ssdd/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/si12ssdd/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
