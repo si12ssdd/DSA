@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/si12ssdd/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/si12ssdd/DSA/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/si12ssdd/DSA/tree/master/3668-restore-finishing-order) |
+| [3925-concatenate-array-with-reverse](https://github.com/si12ssdd/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/si12ssdd/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/si12ssdd/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3614-process-string-with-special-operations-ii](https://github.com/si12ssdd/DSA/tree/master/3614-process-string-with-special-operations-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/si12ssdd/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
