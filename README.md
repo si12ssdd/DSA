@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/si12ssdd/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/si12ssdd/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3110-score-of-a-string](https://github.com/si12ssdd/DSA/tree/master/3110-score-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/si12ssdd/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/si12ssdd/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String Matching
