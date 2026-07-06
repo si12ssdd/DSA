@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/si12ssdd/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0905-sort-array-by-parity](https://github.com/si12ssdd/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/si12ssdd/DSA/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/si12ssdd/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/si12ssdd/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/si12ssdd/DSA/tree/master/1512-number-of-good-pairs) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/si12ssdd/DSA/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/si12ssdd/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/si12ssdd/DSA/tree/master/1288-remove-covered-intervals) |
 | [2465-number-of-distinct-averages](https://github.com/si12ssdd/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/si12ssdd/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/si12ssdd/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
