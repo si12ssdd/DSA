@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/si12ssdd/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/si12ssdd/DSA/tree/master/0771-jewels-and-stones) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/si12ssdd/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1079-letter-tile-possibilities](https://github.com/si12ssdd/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1544-make-the-string-great](https://github.com/si12ssdd/DSA/tree/master/1544-make-the-string-great) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/si12ssdd/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/si12ssdd/DSA/tree/master/1768-merge-strings-alternately) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/si12ssdd/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/si12ssdd/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/si12ssdd/DSA/tree/master/0771-jewels-and-stones) |
+| [1079-letter-tile-possibilities](https://github.com/si12ssdd/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1512-number-of-good-pairs](https://github.com/si12ssdd/DSA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/si12ssdd/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/si12ssdd/DSA/tree/master/1695-maximum-erasure-value) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1079-letter-tile-possibilities](https://github.com/si12ssdd/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1512-number-of-good-pairs](https://github.com/si12ssdd/DSA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/si12ssdd/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1079-letter-tile-possibilities](https://github.com/si12ssdd/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/si12ssdd/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
