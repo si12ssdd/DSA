@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/si12ssdd/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0905-sort-array-by-parity](https://github.com/si12ssdd/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/si12ssdd/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/si12ssdd/DSA/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/si12ssdd/DSA/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/si12ssdd/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/si12ssdd/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/si12ssdd/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/si12ssdd/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/si12ssdd/DSA/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/si12ssdd/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/si12ssdd/DSA/tree/master/1768-merge-strings-alternately) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/si12ssdd/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/si12ssdd/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/si12ssdd/DSA/tree/master/0771-jewels-and-stones) |
+| [0942-di-string-match](https://github.com/si12ssdd/DSA/tree/master/0942-di-string-match) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/si12ssdd/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1079-letter-tile-possibilities](https://github.com/si12ssdd/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1544-make-the-string-great](https://github.com/si12ssdd/DSA/tree/master/1544-make-the-string-great) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/si12ssdd/DSA/tree/master/0942-di-string-match) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/si12ssdd/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/si12ssdd/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
