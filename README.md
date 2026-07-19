@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/si12ssdd/DSA/tree/master/0942-di-string-match) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/si12ssdd/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1079-letter-tile-possibilities](https://github.com/si12ssdd/DSA/tree/master/1079-letter-tile-possibilities) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/si12ssdd/DSA/tree/master/1544-make-the-string-great) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/si12ssdd/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/si12ssdd/DSA/tree/master/1768-merge-strings-alternately) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/si12ssdd/DSA/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/si12ssdd/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/si12ssdd/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/si12ssdd/DSA/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/si12ssdd/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/si12ssdd/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/si12ssdd/DSA/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/si12ssdd/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/si12ssdd/DSA/tree/master/0942-di-string-match) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/si12ssdd/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/si12ssdd/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
