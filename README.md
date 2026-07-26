@@ -308,23 +308,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/si12ssdd/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/si12ssdd/DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/si12ssdd/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/si12ssdd/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/si12ssdd/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/si12ssdd/DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/si12ssdd/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/si12ssdd/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/si12ssdd/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/si12ssdd/DSA/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/si12ssdd/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/si12ssdd/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/si12ssdd/DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/si12ssdd/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/si12ssdd/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Counting
