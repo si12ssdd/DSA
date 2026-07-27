@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/si12ssdd/DSA/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/si12ssdd/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/si12ssdd/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/si12ssdd/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/si12ssdd/DSA/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/si12ssdd/DSA/tree/master/1652-defuse-the-bomb) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/si12ssdd/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/si12ssdd/DSA/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/si12ssdd/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/si12ssdd/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/si12ssdd/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2465-number-of-distinct-averages](https://github.com/si12ssdd/DSA/tree/master/2465-number-of-distinct-averages) |
@@ -417,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/si12ssdd/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/si12ssdd/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/si12ssdd/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
