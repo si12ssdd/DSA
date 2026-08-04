@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/si12ssdd/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/si12ssdd/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/si12ssdd/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/si12ssdd/DSA/tree/master/0654-maximum-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/si12ssdd/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0905-sort-array-by-parity](https://github.com/si12ssdd/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/si12ssdd/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/si12ssdd/DSA/tree/master/0053-maximum-subarray) |
+| [0654-maximum-binary-tree](https://github.com/si12ssdd/DSA/tree/master/0654-maximum-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/si12ssdd/DSA/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/si12ssdd/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/si12ssdd/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0654-maximum-binary-tree](https://github.com/si12ssdd/DSA/tree/master/0654-maximum-binary-tree) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/si12ssdd/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/si12ssdd/DSA/tree/master/1544-make-the-string-great) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/si12ssdd/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/si12ssdd/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0654-maximum-binary-tree](https://github.com/si12ssdd/DSA/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/si12ssdd/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/si12ssdd/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/si12ssdd/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/si12ssdd/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0654-maximum-binary-tree](https://github.com/si12ssdd/DSA/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/si12ssdd/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/si12ssdd/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/si12ssdd/DSA/tree/master/1302-deepest-leaves-sum) |
@@ -363,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/si12ssdd/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/si12ssdd/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/si12ssdd/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0654-maximum-binary-tree](https://github.com/si12ssdd/DSA/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/si12ssdd/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/si12ssdd/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/si12ssdd/DSA/tree/master/1302-deepest-leaves-sum) |
@@ -463,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/si12ssdd/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/si12ssdd/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/si12ssdd/DSA/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
