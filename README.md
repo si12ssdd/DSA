@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/si12ssdd/DSA/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/si12ssdd/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/si12ssdd/DSA/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/si12ssdd/DSA/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/si12ssdd/DSA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/si12ssdd/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/si12ssdd/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/si12ssdd/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/si12ssdd/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/si12ssdd/DSA/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/si12ssdd/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/si12ssdd/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/si12ssdd/DSA/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/si12ssdd/DSA/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/si12ssdd/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/si12ssdd/DSA/tree/master/3945-digit-frequency-score) |
 ## Monotonic Stack
