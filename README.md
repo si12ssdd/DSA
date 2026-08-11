@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/si12ssdd/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/si12ssdd/DSA/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/si12ssdd/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/si12ssdd/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/si12ssdd/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/si12ssdd/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/si12ssdd/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/si12ssdd/DSA/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/si12ssdd/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/si12ssdd/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/si12ssdd/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/si12ssdd/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/si12ssdd/DSA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/si12ssdd/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/si12ssdd/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/si12ssdd/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/si12ssdd/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/si12ssdd/DSA/tree/master/3467-transform-array-by-parity) |
