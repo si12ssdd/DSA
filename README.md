@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/si12ssdd/DSA/tree/master/0053-maximum-subarray) |
 | [0654-maximum-binary-tree](https://github.com/si12ssdd/DSA/tree/master/0654-maximum-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/si12ssdd/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/si12ssdd/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/si12ssdd/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/si12ssdd/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/si12ssdd/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/si12ssdd/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/si12ssdd/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/si12ssdd/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/si12ssdd/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/si12ssdd/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/si12ssdd/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/si12ssdd/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/si12ssdd/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/si12ssdd/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/si12ssdd/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/si12ssdd/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/si12ssdd/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/si12ssdd/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/si12ssdd/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Counting
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/si12ssdd/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0942-di-string-match](https://github.com/si12ssdd/DSA/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1382-balance-a-binary-search-tree](https://github.com/si12ssdd/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/si12ssdd/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/si12ssdd/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/si12ssdd/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -520,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/si12ssdd/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/si12ssdd/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/si12ssdd/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Cartesian Tree
 |  |
 | ------- |
