@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/si12ssdd/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/si12ssdd/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/si12ssdd/DSA/tree/master/3110-score-of-a-string) |
+| [3271-hash-divided-string](https://github.com/si12ssdd/DSA/tree/master/3271-hash-divided-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/si12ssdd/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/si12ssdd/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/si12ssdd/DSA/tree/master/3838-weighted-word-mapping) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/si12ssdd/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/si12ssdd/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/si12ssdd/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3271-hash-divided-string](https://github.com/si12ssdd/DSA/tree/master/3271-hash-divided-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/si12ssdd/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/si12ssdd/DSA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/si12ssdd/DSA/tree/master/3925-concatenate-array-with-reverse) |
