@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/si12ssdd/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/si12ssdd/DSA/tree/master/3110-score-of-a-string) |
 | [3271-hash-divided-string](https://github.com/si12ssdd/DSA/tree/master/3271-hash-divided-string) |
+| [3340-check-balanced-string](https://github.com/si12ssdd/DSA/tree/master/3340-check-balanced-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/si12ssdd/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/si12ssdd/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/si12ssdd/DSA/tree/master/3838-weighted-word-mapping) |
