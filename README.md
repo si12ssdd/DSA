@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/si12ssdd/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/si12ssdd/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/si12ssdd/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/si12ssdd/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/si12ssdd/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/si12ssdd/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/si12ssdd/DSA/tree/master/2418-sort-the-people) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/si12ssdd/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/si12ssdd/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/si12ssdd/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/si12ssdd/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/si12ssdd/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/si12ssdd/DSA/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/si12ssdd/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/si12ssdd/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/si12ssdd/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/si12ssdd/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/si12ssdd/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/si12ssdd/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/si12ssdd/DSA/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/si12ssdd/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/si12ssdd/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/si12ssdd/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/si12ssdd/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/si12ssdd/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/si12ssdd/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
