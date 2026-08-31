@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/si12ssdd/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0654-maximum-binary-tree](https://github.com/si12ssdd/DSA/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/si12ssdd/DSA/tree/master/0938-range-sum-of-bst) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/si12ssdd/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/si12ssdd/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/si12ssdd/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/si12ssdd/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/si12ssdd/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/si12ssdd/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0938-range-sum-of-bst](https://github.com/si12ssdd/DSA/tree/master/0938-range-sum-of-bst) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/si12ssdd/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/si12ssdd/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/si12ssdd/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/si12ssdd/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/si12ssdd/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0654-maximum-binary-tree](https://github.com/si12ssdd/DSA/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/si12ssdd/DSA/tree/master/0938-range-sum-of-bst) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/si12ssdd/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/si12ssdd/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/si12ssdd/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/si12ssdd/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
