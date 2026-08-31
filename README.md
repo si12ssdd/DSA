@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/si12ssdd/DSA/tree/master/1695-maximum-erasure-value) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/si12ssdd/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/si12ssdd/DSA/tree/master/1816-truncate-sentence) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/si12ssdd/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/si12ssdd/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/si12ssdd/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/si12ssdd/DSA/tree/master/1929-concatenation-of-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/si12ssdd/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/si12ssdd/DSA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/si12ssdd/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/si12ssdd/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/si12ssdd/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/si12ssdd/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2418-sort-the-people](https://github.com/si12ssdd/DSA/tree/master/2418-sort-the-people) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/si12ssdd/DSA/tree/master/0436-find-right-interval) |
 | [0633-sum-of-square-numbers](https://github.com/si12ssdd/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/si12ssdd/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/si12ssdd/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/si12ssdd/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/si12ssdd/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/si12ssdd/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/si12ssdd/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/si12ssdd/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/si12ssdd/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/si12ssdd/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/si12ssdd/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/si12ssdd/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/si12ssdd/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/si12ssdd/DSA/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/si12ssdd/DSA/tree/master/1695-maximum-erasure-value) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/si12ssdd/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/si12ssdd/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/si12ssdd/DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -536,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/si12ssdd/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/si12ssdd/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/si12ssdd/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/si12ssdd/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/si12ssdd/DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/si12ssdd/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/si12ssdd/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
