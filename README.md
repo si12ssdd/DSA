@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/si12ssdd/DSA/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/si12ssdd/DSA/tree/master/3838-weighted-word-mapping) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/si12ssdd/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/si12ssdd/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/si12ssdd/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/si12ssdd/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/si12ssdd/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/si12ssdd/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3904-smallest-stable-index-ii](https://github.com/si12ssdd/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
 |  |
 | ------- |
